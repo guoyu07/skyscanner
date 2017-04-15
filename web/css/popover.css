@@ -1,0 +1,87 @@
+.popover-success {
+    background-color: #dff0d8;
+    color: #3c763d;
+    border-color: #3c763d;
+}
+
+.popover-success.top > .arrow {
+    border-top-color: #3c763d;
+}
+
+.popover-success.bottom > .arrow {
+    border-bottom-color: #3c763d;
+}
+
+.popover-success.left > .arrow {
+    border-left-color: #3c763d;
+}
+
+.popover-success.right > .arrow {
+    border-right-color: #3c763d;
+}
+
+.popover-info {
+    background-color: #d9edf7;
+    color: #31708f;
+    border-color: #31708f;
+}
+
+.popover-info.top > .arrow {
+    border-top-color: #31708f;
+}
+
+.popover-info.bottom > .arrow {
+    border-bottom-color: #31708f;
+}
+
+.popover-info.left > .arrow {
+    border-left-color: #31708f;
+}
+
+.popover-info.right > .arrow {
+    border-right-color: #31708f;
+}
+
+.popover-warning {
+    background-color: #fcf8e3;
+    color: #8a6d3b;
+    border-color: #8a6d3b;
+}
+
+.popover-warning.top > .arrow {
+    border-top-color: #8a6d3b;
+}
+
+.popover-warning.bottom > .arrow {
+    border-bottom-color: #8a6d3b;
+}
+
+.popover-warning.left > .arrow {
+    border-left-color: #8a6d3b;
+}
+
+.popover-warning.right > .arrow {
+    border-right-color: #8a6d3b;
+}
+
+.popover-danger {
+    background-color: #f2dede;
+    color: #a94442;
+    border-color: #a94442;
+}
+
+.popover-danger.top > .arrow {
+    border-top-color: #a94442;
+}
+
+.popover-danger.bottom > .arrow {
+    border-bottom-color: #a94442;
+}
+
+.popover-danger.left > .arrow {
+    border-left-color: #a94442;
+}
+
+.popover-danger.right > .arrow {
+    border-right-color: #a94442;
+}
