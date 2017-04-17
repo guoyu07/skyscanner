@@ -36,7 +36,7 @@ class DefaultController extends Controller
             'inboundDate' => '2017-06-15',
             'cabinClass' => 'economy',
             'adults' => '1',
-            'apiKey' => 'ca648373878536744215063892044569'
+            'apiKey' => 'ca513256279825404179848344268581'
         );
         $response = $sky->post('/pricing/v1.0',$info);
 
